@@ -1,0 +1,244 @@
+[input]
+base_directory = "transcripts/spring-in-hieron"
+url_prefix = "https://docs.google.com/document/d/"
+stemming = "None"
+[[input.files]]
+path = "1pXhWrP6qwXQZrnW5xfD6Ezbow0CwWyCWJhc9HvyJVs4.txt"
+url = "1pXhWrP6qwXQZrnW5xfD6Ezbow0CwWyCWJhc9HvyJVs4"
+title = "Spring in Hieron 00: What Came Before"
+
+[[input.files]]
+path = "1EI-OSedAI_Wx_EhB_o1v1D74nOMmj8gIBS5E1crsZw8.txt"
+url = "1EI-OSedAI_Wx_EhB_o1v1D74nOMmj8gIBS5E1crsZw8"
+title = "Spring in Hieron 01: The Touch of Others"
+
+[[input.files]]
+path = "1HOeumDaoT9vvoV-DdBgMLzkR_bEKIZ8M6MOvMdXOKqI.txt"
+url = "1HOeumDaoT9vvoV-DdBgMLzkR_bEKIZ8M6MOvMdXOKqI"
+title = "Spring in Hieron 02: Why Are You Here?"
+
+[[input.files]]
+path = "1namfl7xM8lzbiy3hLCsFYAdJi99IU3FR37EITckiU2o.txt"
+url = "1namfl7xM8lzbiy3hLCsFYAdJi99IU3FR37EITckiU2o"
+title = "Spring in Hieron 03: Hospitable to You"
+
+[[input.files]]
+path = "1xT1NS5muS_CidOkujUrfmCn-paH7LNcnOxcDmBdbpyg.txt"
+url = "1xT1NS5muS_CidOkujUrfmCn-paH7LNcnOxcDmBdbpyg"
+title = "Spring in Hieron 04: Material Effort"
+
+[[input.files]]
+path = "1WDpybyvLsxFXyNBM4DeM-ykDnMQpsRP5Mj1JnlY47Sw.txt"
+url = "1WDpybyvLsxFXyNBM4DeM-ykDnMQpsRP5Mj1JnlY47Sw"
+title = "Spring in Hieron 05: Try To Live a Good Life"
+
+[[input.files]]
+path = "1gl_rVHLTNCtI3NTYTXaz4rGaiyMjUwhC7SddKugYEb4.txt"
+url = "1gl_rVHLTNCtI3NTYTXaz4rGaiyMjUwhC7SddKugYEb4"
+title = "Spring in Hieron 06: Something You've Practiced"
+
+[[input.files]]
+path = "1OANnZUVctQW-s1kJTRDOt_Qev1MH9kfzvMK3bAO-3cE.txt"
+url = "1OANnZUVctQW-s1kJTRDOt_Qev1MH9kfzvMK3bAO-3cE"
+title = "Spring in Hieron 07: Structure and Purpose"
+
+[[input.files]]
+path = "1HzAfV16tjZUhIY8ECen6dN4zqN0ERr7I1LKr0BeEm20.txt"
+url = "1HzAfV16tjZUhIY8ECen6dN4zqN0ERr7I1LKr0BeEm20"
+title = "Spring in Hieron 08: Sympathetic Objects"
+
+[[input.files]]
+path = "1UxfGwixFW3FmiYyKS6j7zjFCg_-U23Jqvbd3qT9xQpQ.txt"
+url = "1UxfGwixFW3FmiYyKS6j7zjFCg_-U23Jqvbd3qT9xQpQ"
+title = "Spring in Hieron 09: A Certain Way"
+
+[[input.files]]
+path = "1BkbjyGTy-Jbi2mXd9HhQxokRTR0Rfctcjsmpi0I2SRE.txt"
+url = "1BkbjyGTy-Jbi2mXd9HhQxokRTR0Rfctcjsmpi0I2SRE"
+title = "Spring in Hieron 10: Who Vouches?"
+
+[[input.files]]
+path = "1rgkwGiec8a0PkSw_qv70p7hO3p4OuqEmm94SD8yEYSs.txt"
+url = "1rgkwGiec8a0PkSw_qv70p7hO3p4OuqEmm94SD8yEYSs"
+title = "Spring in Hieron 11: Cut Off the Head"
+
+[[input.files]]
+path = "1n_rshZHuQP1OOmLFzRDM_LYZJpERZAJK-LjiNTp0SL0.txt"
+url = "1n_rshZHuQP1OOmLFzRDM_LYZJpERZAJK-LjiNTp0SL0"
+title = "Spring in Hieron 12: Long Promises"
+
+[[input.files]]
+path = "1T78q6ts3JMzWXhgvwQX64Ur4Qsem0lSJ8mRq7BJfzes.txt"
+url = "1T78q6ts3JMzWXhgvwQX64Ur4Qsem0lSJ8mRq7BJfzes"
+title = "Spring in Hieron 13: The Time of Gods"
+
+[[input.files]]
+path = "1IUTdPwgHt7X8Dgt7cXm-FfmUw9ahQSh2dnndWHvKnAU.txt"
+url = "1IUTdPwgHt7X8Dgt7cXm-FfmUw9ahQSh2dnndWHvKnAU"
+title = "Spring in Hieron 14: Neighbors To Be Made"
+
+[[input.files]]
+path = "1SiCMLrFkUrvvIg2E-dYHlqWM-Y5WrrN_VqI-1FgtB2M.txt"
+url = "1SiCMLrFkUrvvIg2E-dYHlqWM-Y5WrrN_VqI-1FgtB2M"
+title = "Spring in Hieron 15: The Breath of Hieron"
+
+[[input.files]]
+path = "19Wce01rn6N-ExssK4Msyr4U-ufz4Lf2yEygfbUUo11M.txt"
+url = "19Wce01rn6N-ExssK4Msyr4U-ufz4Lf2yEygfbUUo11M"
+title = "Spring in Hieron 16: Music Through A Wall"
+
+[[input.files]]
+path = "1ODhBOiFobL2FFEEPsECa-eCSzLxEzDWc3HjyAyxn7Tc.txt"
+url = "1ODhBOiFobL2FFEEPsECa-eCSzLxEzDWc3HjyAyxn7Tc"
+title = "Spring in Hieron 17: A Desire to Live"
+
+[[input.files]]
+path = "1qw9flqwCq3vNrWINAxHdxg1MIMSQXp5HdOTb_8Z2X9w.txt"
+url = "1qw9flqwCq3vNrWINAxHdxg1MIMSQXp5HdOTb_8Z2X9w"
+title = "Spring in Hieron 18: A Simple Answer"
+
+[[input.files]]
+path = "1-HCJ5QXVxM5c4hdNhumlKyBoz3DLOetkxE-GF_kqNnY.txt"
+url = "1-HCJ5QXVxM5c4hdNhumlKyBoz3DLOetkxE-GF_kqNnY"
+title = "Spring in Hieron 19: A Night Like Tonight"
+
+[[input.files]]
+path = "1mx3CS_j4btGmd5zAKmUMldy_wP_u_nZfcLewFrmNMuM.txt"
+url = "1mx3CS_j4btGmd5zAKmUMldy_wP_u_nZfcLewFrmNMuM"
+title = "Spring in Hieron 20: Passing of Voices"
+
+[[input.files]]
+path = "19KQ_j0MJxAizgSq5TRh2bLVB1XtTzy7BwkYY2MV7q_w.txt"
+url = "19KQ_j0MJxAizgSq5TRh2bLVB1XtTzy7BwkYY2MV7q_w"
+title = "Spring in Hieron 21: A Fountain of Information"
+
+[[input.files]]
+path = "1nUz4FlOgZjpwjcvD4hj0DhrdxcQw4cHyh_xENvq6wb0.txt"
+url = "1nUz4FlOgZjpwjcvD4hj0DhrdxcQw4cHyh_xENvq6wb0"
+title = "Spring in Hieron 22: Better Every Time"
+
+[[input.files]]
+path = "1MIMPHvOQ7FsjVklKYReGrXhupjN6iqLkV6Cebu4SxyA.txt"
+url = "1MIMPHvOQ7FsjVklKYReGrXhupjN6iqLkV6Cebu4SxyA"
+title = "Spring in Hieron 23: The Heat Will Warm Your Bones"
+
+[[input.files]]
+path = "16TrUI85s47EmzloIMSwPSJbXfkMAlfnm8vChoragZHg.txt"
+url = "16TrUI85s47EmzloIMSwPSJbXfkMAlfnm8vChoragZHg"
+title = "Spring in Hieron 24: Closer to Kin"
+
+[[input.files]]
+path = "1Tv_MrggBEPNhpvdB5ZlCehOO3mzGndYW-bfK8NyNXxQ.txt"
+url = "1Tv_MrggBEPNhpvdB5ZlCehOO3mzGndYW-bfK8NyNXxQ"
+title = "Spring in Hieron 25: The Second Sun"
+
+[[input.files]]
+path = "17q7n6-rml-uy56Sa-OQY5f5b7vd1A6U3n1LAkBytcMQ.txt"
+url = "17q7n6-rml-uy56Sa-OQY5f5b7vd1A6U3n1LAkBytcMQ"
+title = "Spring in Hieron 26: An Attractive Offer"
+
+[[input.files]]
+path = "1-cSlK86PI1mZa1Qhg8hLZHrP51SQRKGww-JbkpmZ5-I.txt"
+url = "1-cSlK86PI1mZa1Qhg8hLZHrP51SQRKGww-JbkpmZ5-I"
+title = "Spring in Hieron 27: A Place and A Time"
+
+[[input.files]]
+path = "1m8OUgoZZUb4VE0UWLqoia8EK4Rk3fA4IAxBPWu_SK6s.txt"
+url = "1m8OUgoZZUb4VE0UWLqoia8EK4Rk3fA4IAxBPWu_SK6s"
+title = "Spring in Hieron 28: Significant Concern"
+
+[[input.files]]
+path = "1YKUeYIfq9y2Hff-pA6xaIJgEIFVdKK_Ef1SNy4iKsYM.txt"
+url = "1YKUeYIfq9y2Hff-pA6xaIJgEIFVdKK_Ef1SNy4iKsYM"
+title = "Merch Available on Fangamer & Gen Con Tickets On Sale Sunday!!!"
+
+[[input.files]]
+path = "1NbxdoISnHU1AQoB0_cE_asn8CI0052iaPQqRgLQZJes.txt"
+url = "1NbxdoISnHU1AQoB0_cE_asn8CI0052iaPQqRgLQZJes"
+title = "Spring in Hieron 29: Deeper than Flesh"
+
+[[input.files]]
+path = "1-0XA9iGyLB4kkK1yFJddNJa9u_epIeMevDRKVzK6tA8.txt"
+url = "1-0XA9iGyLB4kkK1yFJddNJa9u_epIeMevDRKVzK6tA8"
+title = "Spring in Hieron 30: A Safer Second"
+
+[[input.files]]
+path = "1NaGkSrNtzR6N6SuslS-qAzjuVHRQtezzUs0Q6PPbVfc.txt"
+url = "1NaGkSrNtzR6N6SuslS-qAzjuVHRQtezzUs0Q6PPbVfc"
+title = "Spring in Hieron 31: A Handful of People"
+
+[[input.files]]
+path = "1e8zMfsxKtX8fsB9z5tqA9i5ErEDAFj7g_Wa3m-ek_vk.txt"
+url = "1e8zMfsxKtX8fsB9z5tqA9i5ErEDAFj7g_Wa3m-ek_vk"
+title = "Spring in Hieron 32: Insurmountable Odds"
+
+[[input.files]]
+path = "1naa-51CZBb3rsm-v7lv3Mg5-mwTjbkoY0518qSjbAmI.txt"
+url = "1naa-51CZBb3rsm-v7lv3Mg5-mwTjbkoY0518qSjbAmI"
+title = "Spring in Hieron 33: Particular Malice"
+
+[[input.files]]
+path = "1A0PtUFqQNUNEFfJsdAflgmQiKn7q_xSrwn8VTD_NVLo.txt"
+url = "1A0PtUFqQNUNEFfJsdAflgmQiKn7q_xSrwn8VTD_NVLo"
+title = "Spring in Hieron 34: The Variation of Natural Life "
+
+[[input.files]]
+path = "1KI_Ab3z-O9CYAXswp-UCq1J-tcE-VjcnTPvTklh0VF4.txt"
+url = "1KI_Ab3z-O9CYAXswp-UCq1J-tcE-VjcnTPvTklh0VF4"
+title = "Spring in Hieron 35: Unfinished Work"
+
+[[input.files]]
+path = "1K0nlDDBBr4DZDicKScOKHzNSk45k5WgKLWmbKVlvLJg.txt"
+url = "1K0nlDDBBr4DZDicKScOKHzNSk45k5WgKLWmbKVlvLJg"
+title = "Spring in Hieron 36: Terrible and Necessary"
+
+[[input.files]]
+path = "1SS7fu1zohnVvvjuCMYPxq0MVPGzXRCrKVZRap48GsMU.txt"
+url = "1SS7fu1zohnVvvjuCMYPxq0MVPGzXRCrKVZRap48GsMU"
+title = "Spring in Hieron 37: Ingenuity and Love"
+
+[[input.files]]
+path = "1BsVHGG4A-_V2m-581OYquMCF4yYM_-Bu-zYtOE5XWuQ.txt"
+url = "1BsVHGG4A-_V2m-581OYquMCF4yYM_-Bu-zYtOE5XWuQ"
+title = "Spring in Hieron 38: See Where You're Standing"
+
+[[input.files]]
+path = "1b9P2222Wqjmz5x5-eaas7_8o8CTTsaNBDGs81ej3Ry0.txt"
+url = "1b9P2222Wqjmz5x5-eaas7_8o8CTTsaNBDGs81ej3Ry0"
+title = "Friends at the Table @ Gen Con this week!! "
+
+[[input.files]]
+path = "1C2YmtH7UD3dUF7RcrlL7nzVoxFHWhMVdsyUdL6wi9pU.txt"
+url = "1C2YmtH7UD3dUF7RcrlL7nzVoxFHWhMVdsyUdL6wi9pU"
+title = "Spring in Hieron 39: The Second Spring Pt. 1"
+
+[[input.files]]
+path = "1RG9aaeqy_uSrbaVg3yZRRKzb9C1fyIc29EOA3b7New4.txt"
+url = "1RG9aaeqy_uSrbaVg3yZRRKzb9C1fyIc29EOA3b7New4"
+title = "Spring in Hieron 40: The Second Spring Pt. 2"
+
+[[input.files]]
+path = "1fZL9kTLrAw0CfU-MUdU2R7a94aRYyD4tdKTmzjsN07g.txt"
+url = "1fZL9kTLrAw0CfU-MUdU2R7a94aRYyD4tdKTmzjsN07g"
+title = "Spring in Hieron 41: The Second Spring Pt. 3"
+
+[[input.files]]
+path = "1j_MDOpnXERKXz30rYTlGGplmMbaNYfEQB9nVzO5d2aQ.txt"
+url = "1j_MDOpnXERKXz30rYTlGGplmMbaNYfEQB9nVzO5d2aQ"
+title = "Spring in Hieron 42: The Second Spring Pt. 4"
+
+[[input.files]]
+path = "1BDV4sAYh5NZSAW5d19p37VIWiD2JEB84kpIAvWkKX8s.txt"
+url = "1BDV4sAYh5NZSAW5d19p37VIWiD2JEB84kpIAvWkKX8s"
+title = "Spring in Hieron 43: The Second Spring Pt. 5"
+
+[[input.files]]
+path = "1j7oLy5JkvxGOSzoMGJd6GW4xZo7vBSShQ3ij8QikFmk.txt"
+url = "1j7oLy5JkvxGOSzoMGJd6GW4xZo7vBSShQ3ij8QikFmk"
+title = "Spring in Hieron 44: The Second Spring Pt. 6"
+
+[[input.files]]
+path = "1_eWP94AXFwIKEsCXRV5I3j085lwFkPhQ-0-DwqGpJLw.txt"
+url = "1_eWP94AXFwIKEsCXRV5I3j085lwFkPhQ-0-DwqGpJLw"
+title = "Spring in Hieron Post Mortem (Read the post!)"
+

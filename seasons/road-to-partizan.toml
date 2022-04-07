@@ -1,0 +1,59 @@
+[input]
+base_directory = "transcripts/road-to-partizan"
+url_prefix = "https://docs.google.com/document/d/"
+stemming = "None"
+[[input.files]]
+path = "1RgxhM4DIP_bErPmYgewPGIJs5vQMrm2UU4nONRure3M.txt"
+url = "1RgxhM4DIP_bErPmYgewPGIJs5vQMrm2UU4nONRure3M"
+title = "Announcing: PARTIZAN (And Some New Merch!)"
+
+[[input.files]]
+path = "1s76j7aaS3-OaDLxXLJGKgaL-ctm-nRek9qfeFqpdQM4.txt"
+url = "1s76j7aaS3-OaDLxXLJGKgaL-ctm-nRek9qfeFqpdQM4"
+title = "The Road to PARTIZAN 01: Dialect Pt. 1"
+
+[[input.files]]
+path = "1pMB-gf6pAa-rakvBRr9O-ZC6p1C9fl2p--AMZE1hJRI.txt"
+url = "1pMB-gf6pAa-rakvBRr9O-ZC6p1C9fl2p--AMZE1hJRI"
+title = "The Road to PARTIZAN 02: Dialect Pt. 2"
+
+[[input.files]]
+path = "18B3_cCnyt4kQIcCAO4R5aBGYzTjPpq1Poe5FB0CLZeo.txt"
+url = "18B3_cCnyt4kQIcCAO4R5aBGYzTjPpq1Poe5FB0CLZeo"
+title = "The Road to PARTIZAN 03: Armour Astir Pt.1"
+
+[[input.files]]
+path = "1xGVfQqSd7Quo-8lf_8GIjxouV2Vux2PNCwQTC3gnDcU.txt"
+url = "1xGVfQqSd7Quo-8lf_8GIjxouV2Vux2PNCwQTC3gnDcU"
+title = "The Road to PARTIZAN 05: Ech0 & dusk to midnight"
+
+[[input.files]]
+path = "1Cxg3k5nIAtnYZTm3kgK4nzDQR_X3ha9x9p_Rd5-QH70.txt"
+url = "1Cxg3k5nIAtnYZTm3kgK4nzDQR_X3ha9x9p_Rd5-QH70"
+title = "The Road to PARTIZAN 06: Beam Saber Pt. 1"
+
+[[input.files]]
+path = "1SN7aMDHFL7jhlyMLZ6X8vubxx8SZ3rBqbCM0fbk9MAI.txt"
+url = "1SN7aMDHFL7jhlyMLZ6X8vubxx8SZ3rBqbCM0fbk9MAI"
+title = "The Road to PARTIZAN 07: Beam Saber Pt. 2"
+
+[[input.files]]
+path = "1JD8qCHvGJYdbZSO66wobXQ3Mb8qB7YdFqZG212WCOVI.txt"
+url = "1JD8qCHvGJYdbZSO66wobXQ3Mb8qB7YdFqZG212WCOVI"
+title = "The Road to PARTIZAN 08: For the Queen"
+
+[[input.files]]
+path = "1fy_FTG4_UJRNg-IvDywON9RpF1zPZZuGIJrHAOCWZzA.txt"
+url = "1fy_FTG4_UJRNg-IvDywON9RpF1zPZZuGIJrHAOCWZzA"
+title = "The Road to PARTIZAN 09: Microscope Pt. 1"
+
+[[input.files]]
+path = "1Gl_dpTrkOLu6UwSiOdPyup4t2ymJx6cbI7eC0PbRt8c.txt"
+url = "1Gl_dpTrkOLu6UwSiOdPyup4t2ymJx6cbI7eC0PbRt8c"
+title = "The Road to PARTIZAN 10: Microscope Pt. 2"
+
+[[input.files]]
+path = "18VSJvOkKltxn4aYhTOwFze7WICkpYXiS5sZBXyQv17o.txt"
+url = "18VSJvOkKltxn4aYhTOwFze7WICkpYXiS5sZBXyQv17o"
+title = "The Road to PARTIZAN 11: Summary & Recap"
+

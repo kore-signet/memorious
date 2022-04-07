@@ -1,0 +1,139 @@
+[input]
+base_directory = "transcripts/patreon"
+url_prefix = "https://docs.google.com/document/d/"
+stemming = "None"
+[[input.files]]
+path = "1l7NU790dyS15K9tGbQPeoJ5wnM2bx28NXnn5UaEyjeo.txt"
+url = "1l7NU790dyS15K9tGbQPeoJ5wnM2bx28NXnn5UaEyjeo"
+title = "Clapcast 12: FatT Blingee Contest"
+
+[[input.files]]
+path = "1UkEopaca6q6kaKre9HTSThpUj0rU0LQGTcejBgZ0O48.txt"
+url = "1UkEopaca6q6kaKre9HTSThpUj0rU0LQGTcejBgZ0O48"
+title = "Clapcast 12.5: Bluff City 10.5"
+
+[[input.files]]
+path = "1Pw4RIf4U43xFVsZepudrCHC96C-iXH5bScEcWQbLBWI.txt"
+url = "1Pw4RIf4U43xFVsZepudrCHC96C-iXH5bScEcWQbLBWI"
+title = "Clapcast 24: Goodbye Hieron! (August 2019)"
+
+[[input.files]]
+path = "1e2RfdldXCPorWkq7vo0BMx0TXPI_BwAXhtl1P9f6sCU.txt"
+url = "1e2RfdldXCPorWkq7vo0BMx0TXPI_BwAXhtl1P9f6sCU"
+title = "Clapcast 27: Who Gets the Costco Card? (A Partizan 00 Companion Episode) (November 2019)"
+
+[[input.files]]
+path = "1EWxRJbmWmK1Rvgmx-Fa53fplsfzvqOa034Zvkk9y5BA.txt"
+url = "1EWxRJbmWmK1Rvgmx-Fa53fplsfzvqOa034Zvkk9y5BA"
+title = "Clapcast 35: The Scarlet Deceiver (July 2020)"
+
+[[input.files]]
+path = "1VhGav9wNZGqqwtKBIof7rmRL2WIZJK6rvntjcc78Wzo.txt"
+url = "1VhGav9wNZGqqwtKBIof7rmRL2WIZJK6rvntjcc78Wzo"
+title = "Clapcast 50: The Most Wanted Song"
+
+[[input.files]]
+path = "1hkYy98MAG7OOb3qao7plqwTGH2hlJLBbe9_6k7VRFwc.txt"
+url = "1hkYy98MAG7OOb3qao7plqwTGH2hlJLBbe9_6k7VRFwc"
+title = "Bluff City 01: A Bowling Alley, A Boxer, and A Bird Pt. 1"
+
+[[input.files]]
+path = "16T6ZLaQWCznOuDPkDi_1yiCX0MTSPpWX2V2X4F0vmDU.txt"
+url = "16T6ZLaQWCznOuDPkDi_1yiCX0MTSPpWX2V2X4F0vmDU"
+title = "Bluff City 02: A Bowling Alley, A Boxer, and A Bird, Pt. 2"
+
+[[input.files]]
+path = "16QWcnQ-YjSzgXSVUtInMoxTqnkp1Cw66Ws7ZWyA0B7k.txt"
+url = "16QWcnQ-YjSzgXSVUtInMoxTqnkp1Cw66Ws7ZWyA0B7k"
+title = "Bluff City 03: The Cost of Greed Pt. 1"
+
+[[input.files]]
+path = "1UDmROiSQJMO-ivrHGihi3u0B60n8VX-VgG0ceRcvRxM.txt"
+url = "1UDmROiSQJMO-ivrHGihi3u0B60n8VX-VgG0ceRcvRxM"
+title = "Bluff City 04: The Cost of Greed Pt. 2"
+
+[[input.files]]
+path = "1tW3SCtsaH9BDelivFmaHNw1J5_0zSEHB5H6JBBvY_OY.txt"
+url = "1tW3SCtsaH9BDelivFmaHNw1J5_0zSEHB5H6JBBvY_OY"
+title = "Bluff City 05: There Is No Greater Love Pt. 1"
+
+[[input.files]]
+path = "14ECK6UjS27Z9UE152qiuYDhQRXJ57QO1wbaDSKiDZmM.txt"
+url = "14ECK6UjS27Z9UE152qiuYDhQRXJ57QO1wbaDSKiDZmM"
+title = "Bluff City 06: There Is No Greater Love Pt. 2"
+
+[[input.files]]
+path = "12sB0478RFg-MqFuv1EUDZJKqvZEYyzxJf6Kc7gCIDUk.txt"
+url = "12sB0478RFg-MqFuv1EUDZJKqvZEYyzxJf6Kc7gCIDUk"
+title = "Bluff City 07: The Eighty Six Pt. 1"
+
+[[input.files]]
+path = "1hTjTEYdjyNVv0Ffg-PBum4XQOozZphy1VUxnZ2pT7Kw.txt"
+url = "1hTjTEYdjyNVv0Ffg-PBum4XQOozZphy1VUxnZ2pT7Kw"
+title = "Bluff City 09: The Grapplers Down at Promenade Arena Pt. 1"
+
+[[input.files]]
+path = "10TqDveNqT02LuRumhX4u_7DqsDVGRhiAkde23m13iog.txt"
+url = "10TqDveNqT02LuRumhX4u_7DqsDVGRhiAkde23m13iog"
+title = "Bluff City 10: The Grapplers Down at Promenade Arena Pt. 2"
+
+[[input.files]]
+path = "1CN4kKfMxGpVgE6jvZcmNGFt1yP95PHSImyFWWgJujGQ.txt"
+url = "1CN4kKfMxGpVgE6jvZcmNGFt1yP95PHSImyFWWgJujGQ"
+title = "Bluff City 11: The Grapplers Down at Promenade Arena Pt. 3"
+
+[[input.files]]
+path = "10IO0x-kwtQmh6LlrbSP5gdzcoeI0g3226vmtt1iuang.txt"
+url = "10IO0x-kwtQmh6LlrbSP5gdzcoeI0g3226vmtt1iuang"
+title = "Bluff City 12: When Justice Is Done Pt. 0"
+
+[[input.files]]
+path = "1USHfJOFvOUZmApqky40EL1N_vZ5kvi0rUqjr59JpkKM.txt"
+url = "1USHfJOFvOUZmApqky40EL1N_vZ5kvi0rUqjr59JpkKM"
+title = "Bluff City 13: When Justice Is Done Pt. 1"
+
+[[input.files]]
+path = "1E2yatII8JSIPlzpXpuB576g7gYvJ6RutVT8Zh4eLsLI.txt"
+url = "1E2yatII8JSIPlzpXpuB576g7gYvJ6RutVT8Zh4eLsLI"
+title = "Bluff City 14: When Justice Is Done Pt. 2"
+
+[[input.files]]
+path = "19TXJ9c0o7a6uOif5gEK2VsZCISWmLJBW9xbpwvdphtM.txt"
+url = "19TXJ9c0o7a6uOif5gEK2VsZCISWmLJBW9xbpwvdphtM"
+title = "Bluff City 15: When Justice Is Done Pt. 3"
+
+[[input.files]]
+path = "1hF3pNyr_zrzSmxDcuvKutNCyMfxP2BeKsQim9w7_fI0.txt"
+url = "1hF3pNyr_zrzSmxDcuvKutNCyMfxP2BeKsQim9w7_fI0"
+title = "Bluff City 16: Messy Business Pt. 1 "
+
+[[input.files]]
+path = "1zB1Vfvsj8Wd2iW1os2AZvdsCu-ITaLf1DP1us1EaRJU.txt"
+url = "1zB1Vfvsj8Wd2iW1os2AZvdsCu-ITaLf1DP1us1EaRJU"
+title = "Bluff City 17: Messy Business Pt. 2"
+
+[[input.files]]
+path = "1PcnoHSq8LY2oechzbWYSjZqMp3iFxBih2zmbu3tO-gA.txt"
+url = "1PcnoHSq8LY2oechzbWYSjZqMp3iFxBih2zmbu3tO-gA"
+title = "Bluff City 18: Messy Business Pt. 3"
+
+[[input.files]]
+path = "1HJ65OWAbbOFwBE01-LYl8AT3O2T2xbb9WIYMWK7G05g.txt"
+url = "1HJ65OWAbbOFwBE01-LYl8AT3O2T2xbb9WIYMWK7G05g"
+title = "Bluff City 19: Messy Business Pt. 4"
+
+[[input.files]]
+path = "1iMzUhGiaeqYH8bObAjgY68YerC902bYXaWk8Rx2A73k.txt"
+url = "1iMzUhGiaeqYH8bObAjgY68YerC902bYXaWk8Rx2A73k"
+title = "Bluff City Season 1 Post Mortem"
+
+[[input.files]]
+path = "1xkvFCfjDQJpOgMKOyyD3PWgTNqCgh-Sd-kUJ5nVkoZU.txt"
+url = "1xkvFCfjDQJpOgMKOyyD3PWgTNqCgh-Sd-kUJ5nVkoZU"
+title = "Drawing Maps Audio 02: Season 6 Faction Creation Pt. 1 - Government Type"
+
+[[input.files]]
+path = "1d6j9-ce28JINpZXTPin1uJQl7SjTyk7mWRtA5r6ZrVA.txt"
+url = "1d6j9-ce28JINpZXTPin1uJQl7SjTyk7mWRtA5r6ZrVA"
+title = "Pusher Update Catchup #1: The New Big Ship We All Live On"
+

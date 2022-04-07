@@ -1,0 +1,209 @@
+[input]
+base_directory = "transcripts/partizan"
+url_prefix = "https://docs.google.com/document/d/"
+stemming = "None"
+[[input.files]]
+path = "1yA0X_obPt17vLqbixQLeLdh3QbDhJXYgeTtnP3hOtk4.txt"
+url = "1yA0X_obPt17vLqbixQLeLdh3QbDhJXYgeTtnP3hOtk4"
+title = "PARTIZAN 00: The Divine Principality"
+
+[[input.files]]
+path = "1xw9iP44H6v4xiYxS1Uu-vgELyGHutTolvcKeJ8JqAX4.txt"
+url = "1xw9iP44H6v4xiYxS1Uu-vgELyGHutTolvcKeJ8JqAX4"
+title = "PARTIZAN 01: The Seaside Town of Obelle"
+
+[[input.files]]
+path = "1k2SpO2cR4hQHQ5MpzNYLeFokS_x6ROYAMjaOvO1tjaQ.txt"
+url = "1k2SpO2cR4hQHQ5MpzNYLeFokS_x6ROYAMjaOvO1tjaQ"
+title = "PARTIZAN 02: Obelle, On Fire"
+
+[[input.files]]
+path = "1HKC6juZ_PmbRU1otR5Ysho7S8equ9PwIkO0JnxEoX1c.txt"
+url = "1HKC6juZ_PmbRU1otR5Ysho7S8equ9PwIkO0JnxEoX1c"
+title = "PARTIZAN 03: SHORESIDE RECOVERY - DINNERDATE"
+
+[[input.files]]
+path = "10CjMnZsZHwrZd5q_ZL-R5U6nok3XO3RyA8FTVbpRjh0.txt"
+url = "10CjMnZsZHwrZd5q_ZL-R5U6nok3XO3RyA8FTVbpRjh0"
+title = "PARTIZAN 04: SHORESIDE RECOVERY - BLACKGLOVES"
+
+[[input.files]]
+path = "1RMpe1d0RfhhBFZE0IeVtjkWisrrKHDka4ibPiQQjBF0.txt"
+url = "1RMpe1d0RfhhBFZE0IeVtjkWisrrKHDka4ibPiQQjBF0"
+title = "PARTIZAN 05: Profit and Loss"
+
+[[input.files]]
+path = "1gNFIC5aRaYEcrJC7JOm4CyEXjxsJNPJTXg1NcBpO7bM.txt"
+url = "1gNFIC5aRaYEcrJC7JOm4CyEXjxsJNPJTXg1NcBpO7bM"
+title = "PARTIZAN 06: A Palace During a Wake"
+
+[[input.files]]
+path = "1lTVi8BlIYZjOAOzHyA0o6UVRb9cfSJBrnS5v7WLBw60.txt"
+url = "1lTVi8BlIYZjOAOzHyA0o6UVRb9cfSJBrnS5v7WLBw60"
+title = "PARTIZAN 07: Ambush in the Sand"
+
+[[input.files]]
+path = "1SnYMmh-o0ltWtoF76IJah9QxEw6CfG6Qqbf64h7ttr8.txt"
+url = "1SnYMmh-o0ltWtoF76IJah9QxEw6CfG6Qqbf64h7ttr8"
+title = "PARTIZAN 08: Under the Boughs of the Court"
+
+[[input.files]]
+path = "1Q4bpSMukxzLtQ-6eToE4qe1PnD3wiH87QAA1YqNowQM.txt"
+url = "1Q4bpSMukxzLtQ-6eToE4qe1PnD3wiH87QAA1YqNowQM"
+title = "PARTIZAN 09 - DESERT SQUIRE - VANTAGE"
+
+[[input.files]]
+path = "1C2FJHip4CiD12IV8Lbs5270LFJ6EJv67qer64vKBgcY.txt"
+url = "1C2FJHip4CiD12IV8Lbs5270LFJ6EJv67qer64vKBgcY"
+title = "PARTIZAN 10: DESERT SQUIRE - RIPOSTE"
+
+[[input.files]]
+path = "1KyXeGDrX2PuTIObUoFvzFNpuAsJyU3-TjcceAnKc5bE.txt"
+url = "1KyXeGDrX2PuTIObUoFvzFNpuAsJyU3-TjcceAnKc5bE"
+title = "PARTIZAN 11: DESERT SQUIRE - SLEIGHT"
+
+[[input.files]]
+path = "1UGFHApk1q187VcfcXwbvRhH7_qPoErWa9fSHvtB803E.txt"
+url = "1UGFHApk1q187VcfcXwbvRhH7_qPoErWa9fSHvtB803E"
+title = "PARTIZAN 12: A Call From an Island"
+
+[[input.files]]
+path = "1l4eZ0kAhol5jW4l6uCMkBh-hk2uFXPSzKjR__ohuMjo.txt"
+url = "1l4eZ0kAhol5jW4l6uCMkBh-hk2uFXPSzKjR__ohuMjo"
+title = "PARTIZAN 13: A Captive Audience"
+
+[[input.files]]
+path = "1N1l-0mYQWse9gKoNryExA0osGPIm907ggP1vYwiN3UY.txt"
+url = "1N1l-0mYQWse9gKoNryExA0osGPIm907ggP1vYwiN3UY"
+title = "PARTIZAN 14: Deception in the Canyon City"
+
+[[input.files]]
+path = "1z3_abjr0BIbNjVFaeqt4Xcql_hjiaORDwoViTlTHwBY.txt"
+url = "1z3_abjr0BIbNjVFaeqt4Xcql_hjiaORDwoViTlTHwBY"
+title = "PARTIZAN 15: Divine Attention"
+
+[[input.files]]
+path = "1K90tbt73s4u_lRsXy317zfYyhxMmEBlv401McLNnicY.txt"
+url = "1K90tbt73s4u_lRsXy317zfYyhxMmEBlv401McLNnicY"
+title = "PARTIZAN 16: BITTER AIR - BEHEST"
+
+[[input.files]]
+path = "1KzrvLzEUsi5wd0Bn78m4s0OdVObyfyRtvrNcug4tlbI.txt"
+url = "1KzrvLzEUsi5wd0Bn78m4s0OdVObyfyRtvrNcug4tlbI"
+title = "PARTIZAN 17: BITTER AIR - THREECARD"
+
+[[input.files]]
+path = "1DAdJ6No3TedeM3vF-EO7aH8Ud_VrJvOq0YuxReElonw.txt"
+url = "1DAdJ6No3TedeM3vF-EO7aH8Ud_VrJvOq0YuxReElonw"
+title = "PARTIZAN 18: BITTER AIR - COMBUSTION"
+
+[[input.files]]
+path = "1ktSjNCXuQVwF-J6c8qaOyOqvB2d6uCjdNPY7Xyj6g00.txt"
+url = "1ktSjNCXuQVwF-J6c8qaOyOqvB2d6uCjdNPY7Xyj6g00"
+title = "PARTIZAN 19: On the Edge of Fracture"
+
+[[input.files]]
+path = "1LfZw_4IzHzPbtC1xDE-e-8qXAr-2Ic5QhlwAOQ1U1T0.txt"
+url = "1LfZw_4IzHzPbtC1xDE-e-8qXAr-2Ic5QhlwAOQ1U1T0"
+title = "PARTIZAN 20: On the Eve of Revolution"
+
+[[input.files]]
+path = "1uK8RArlWsdSw47VJVYxiDx-mJSMf6zDupiswG1kKweA.txt"
+url = "1uK8RArlWsdSw47VJVYxiDx-mJSMf6zDupiswG1kKweA"
+title = "PARTIZAN 22: Millenium Break: Forward, to Piracy (Sharp Tensions Across Tremulous Seas)"
+
+[[input.files]]
+path = "1gWOvis33BYNBfSGG7pnkEDvgfCE5htZatvXq4xV86ws.txt"
+url = "1gWOvis33BYNBfSGG7pnkEDvgfCE5htZatvXq4xV86ws"
+title = "PARTIZAN 23: Who Will Lead Millennium Break?"
+
+[[input.files]]
+path = "11nwYequJ9uF2zInVmGRSCJ2O7hsJnFRikDgaQzSf7Fg.txt"
+url = "11nwYequJ9uF2zInVmGRSCJ2O7hsJnFRikDgaQzSf7Fg"
+title = "PARTIZAN 24: Millennium Break: The First and Second Arrests of Clementine Kesh"
+
+[[input.files]]
+path = "1VjgLO8wpuK860mP6qpVBkKH12K2IfE-f7fKSnXi5HcI.txt"
+url = "1VjgLO8wpuK860mP6qpVBkKH12K2IfE-f7fKSnXi5HcI"
+title = "PARTIZAN 26: Millennium Break: Breaking Vigil"
+
+[[input.files]]
+path = "1M08vgkA9rMcBnuN77B_RaY5Q_VBNWCwwAjVuv-wCVXI.txt"
+url = "1M08vgkA9rMcBnuN77B_RaY5Q_VBNWCwwAjVuv-wCVXI"
+title = "PARTIZAN 27: Millennium Break: She said, \"To Win We Must Play!\""
+
+[[input.files]]
+path = "1tqYTK2HJ4ClTeoRHBF9n3SLVwCe5neUO8oHnxBf-B7A.txt"
+url = "1tqYTK2HJ4ClTeoRHBF9n3SLVwCe5neUO8oHnxBf-B7A"
+title = "PARTIZAN 28: Millennium Break: The Storm Over Cruciat"
+
+[[input.files]]
+path = "15KtRVAFASW3vo7ip0vl2q3LZCo6T-bv7WPdExAGXMEA.txt"
+url = "15KtRVAFASW3vo7ip0vl2q3LZCo6T-bv7WPdExAGXMEA"
+title = "Bonus Episode: Sports Are Just Numerology"
+
+[[input.files]]
+path = "1MeJhbiGhXkp3S8y643xcEOth-0OaqPuDsKgf-Gtjhoo.txt"
+url = "1MeJhbiGhXkp3S8y643xcEOth-0OaqPuDsKgf-Gtjhoo"
+title = "PARTIZAN 31: The Grand Premiere"
+
+[[input.files]]
+path = "1SGWlkenjyFkKzm3V0pmxfNutTHUEyeeQB9dVzycwHkY.txt"
+url = "1SGWlkenjyFkKzm3V0pmxfNutTHUEyeeQB9dVzycwHkY"
+title = "PARTIZAN 32: GLORY Arrives"
+
+[[input.files]]
+path = "1pYCVpEZNuoqcLSpMKHTDdxQoRfm2hbiChbJAlg7u8Tc.txt"
+url = "1pYCVpEZNuoqcLSpMKHTDdxQoRfm2hbiChbJAlg7u8Tc"
+title = "PARTIZAN 33: A Single Shot"
+
+[[input.files]]
+path = "1h5kCZCIAs2HidKDfKl5alwrkVi4irPOf9d6n3Efq0sQ.txt"
+url = "1h5kCZCIAs2HidKDfKl5alwrkVi4irPOf9d6n3Efq0sQ"
+title = "PARTIZAN 35: The Witch in the Glass Pt. 1"
+
+[[input.files]]
+path = "1iHISLaYMoCkF52VRJQIgdFoAEIoMG2uJRSn00Her1Yg.txt"
+url = "1iHISLaYMoCkF52VRJQIgdFoAEIoMG2uJRSn00Her1Yg"
+title = "PARTIZAN 36: The Witch in the Glass Pt. 2"
+
+[[input.files]]
+path = "1O5EqGvNtXZSjaPy-vyvOiiAqOhKkl-YFL4X_umuH_RQ.txt"
+url = "1O5EqGvNtXZSjaPy-vyvOiiAqOhKkl-YFL4X_umuH_RQ"
+title = "PARTIZAN 37: The Gravity of Absence"
+
+[[input.files]]
+path = "1ppjhYxA-iqtj5XJldUAgtAXJey86w3X3Exw9ujNxGkU.txt"
+url = "1ppjhYxA-iqtj5XJldUAgtAXJey86w3X3Exw9ujNxGkU"
+title = "PARTIZAN 38: The Red Light"
+
+[[input.files]]
+path = "1S8OuCWM-AaUa10Ki4WhNTep-3jvrnoo07wb3U-ch0bA.txt"
+url = "1S8OuCWM-AaUa10Ki4WhNTep-3jvrnoo07wb3U-ch0bA"
+title = "PARTIZAN 39: Escape Velocity"
+
+[[input.files]]
+path = "1_hy7-TCLd2xdlNIYE2o3RM-dAttQeRRkRE-jdFgj6wo.txt"
+url = "1_hy7-TCLd2xdlNIYE2o3RM-dAttQeRRkRE-jdFgj6wo"
+title = "PARTIZAN 40: Engine Burn"
+
+[[input.files]]
+path = "1_TP0NoV1Kgt-91kgM0IZoCoPUzq5_RKHZbMiO3dwBIg.txt"
+url = "1_TP0NoV1Kgt-91kgM0IZoCoPUzq5_RKHZbMiO3dwBIg"
+title = "PARTIZAN 41: Orbital Decay"
+
+[[input.files]]
+path = "1znVOdssxKjOIqk4NWiyC9xz_3CkWmXJWbJHoXDaFvyw.txt"
+url = "1znVOdssxKjOIqk4NWiyC9xz_3CkWmXJWbJHoXDaFvyw"
+title = "PARTIZAN 42: The Unbreakable Quarry"
+
+[[input.files]]
+path = "1akSSvpddGq9Jhp84mm1eaGOfKrAkBynEc-1NLymRWPM.txt"
+url = "1akSSvpddGq9Jhp84mm1eaGOfKrAkBynEc-1NLymRWPM"
+title = "PARTIZAN 46: Operation Shackled Sun: Act 2: The Gate"
+
+[[input.files]]
+path = "1K1_wER_xG8JHfEnbmpBWGi_XFDkg7HDVMquUT1RWzc8.txt"
+url = "1K1_wER_xG8JHfEnbmpBWGi_XFDkg7HDVMquUT1RWzc8"
+title = "PARTIZAN 48: Post Mortem"
+
