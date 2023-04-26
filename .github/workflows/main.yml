@@ -14,8 +14,8 @@ jobs:
         with:
           persist-credentials: false
           fetch-depth: 0
-
-     - name: checkout repo content
+      
+      - name: checkout repo content
         uses: actions/checkout@v2
         with:
           repository: 'emily-signet/transcripts-at-the-table-mirror'
