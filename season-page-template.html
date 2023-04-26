@@ -43,13 +43,13 @@
         <h2 style="margin-bottom: 0%;">records for {{ title }}</h2>
         <h4 style="margin-top: 0%; "><a href="/" style="color: #86132c;">return home</a></h4>
         <div class="stork-wrapper-edible">
-            <input data-stork="{{ slug }}" class="stork-input" placeholder="search in our memory" />
-            <div data-stork="{{ slug }}-output" class="stork-output"></div>
+            <input data-stork="{{ id }}" class="stork-input" placeholder="search in our memory" />
+            <div data-stork="{{ id }}-output" class="stork-output"></div>
         </div>
         <script src="../stork/stork.js"></script>
         <script>
             stork.initialize("../stork/stork.wasm")
-            stork.register("{{ slug }}", "../indexes/{{ slug }}.st")
+            stork.register("{{ id }}", "../indexes/{{ id }}.st")
         </script>
     </body>
 </html>

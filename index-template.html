@@ -91,39 +91,41 @@
             seasons of hieron
         </h3>
         <ul id="hieron">
-                <li><a href="seasons/autumn-in-hieron.html" target="_blank" rel="noopener">Autumn in Hieron</a></li>
-                <li><a href="seasons/marielda.html" target="_blank" rel="noopener">Marielda</a></li>
-                <li><a href="seasons/winter-in-hieron.html" target="_blank" rel="noopener">Winter in Hieron</a></li>
-                <li><a href="seasons/spring-in-hieron.html" target="_blank" rel="noopener">Spring in Hieron</a></li>
+            {{#hieron}}
+                <li><a href="seasons/{{id}}.html" target="_blank" rel="noopener">{{title}}</a></li>
+            {{/hieron}}
         </ul>
         <h3>
             the divine cycle
         </h3>
         <ul id="divine">
-                <li><a href="seasons/counterweight.html" target="_blank" rel="noopener">COUNTERWeight</a></li>
-                <li><a href="seasons/twilight-mirage.html" target="_blank" rel="noopener">Twilight Mirage</a></li>
-                <li><a href="seasons/road-to-partizan.html" target="_blank" rel="noopener">Road to PARTIZAN</a></li>
-                <li><a href="seasons/partizan.html" target="_blank" rel="noopener">PARTIZAN</a></li>
-                <li><a href="seasons/road-to-palisade.html" target="_blank" rel="noopener">Road to PALISADE</a></li>
-                <li><a href="seasons/palisade.html" target="_blank" rel="noopener">PALISADE</a></li>
+            {{#divine}}
+                <li><a href="seasons/{{id}}.html" target="_blank" rel="noopener">{{title}}</a></li>
+            {{/divine}}
         </ul>
         <h3>
             sangfielle
         </h3>
         <ul id="longfielle">
-                <li><a href="seasons/sangfielle.html" target="_blank" rel="noopener">Sangfielle</a></li>
+            {{#longfielle}}
+                <li><a href="seasons/{{id}}.html" target="_blank" rel="noopener">{{title}}</a></li>
+            {{/longfielle}}
         </ul>
         <h3>
             bonus seasons
         </h3>
         <ul id="extras">
-                <li><a href="seasons/extras.html" target="_blank" rel="noopener">Extras</a></li>
-                <li><a href="seasons/patreon.html" target="_blank" rel="noopener">Patreon</a></li>
+            {{#extras}}
+                <li><a href="seasons/{{id}}.html" target="_blank" rel="noopener">{{title}}</a></li>
+            {{/extras}}
         </ul>
         <h3>
             uncategorized
         </h3>
         <ul id="uncategorized">
+            {{#uncategorized}}
+                <li><a href="seasons/{{id}}.html" target="_blank" rel="noopener">{{title}}</a></li>
+            {{/uncategorized}}
         </ul>
 
         <footer>
