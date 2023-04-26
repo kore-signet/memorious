@@ -44,6 +44,7 @@ jobs:
 
       - name: move files to dist
         run: |
+          mkdir dist
           cp -avr fonts indexes seasons stork index.html CNAME cover.png dist
 
       - name: Deploy
