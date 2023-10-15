@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+toml = "==0.10.2"
+chevron = "==0.14.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
