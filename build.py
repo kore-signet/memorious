@@ -37,7 +37,8 @@ categories_ids = {
     'divine': ['counterweight','twilight-mirage','road-to-partizan', 'partizan','road-to-palisade', 'palisade'],
     'hieron': ['autumn-in-hieron', 'marielda', 'winter-in-hieron', 'spring-in-hieron'],
     'longfielle': ['sangfielle'],
-    'extras': ['patreon', 'extras', 'media-club-plus'],
+    'patreon': ['patreon-games', 'patreon-other'],
+    'extras': ['extras', 'media-club-plus'],
     'others': []
 }
 
@@ -45,6 +46,7 @@ categories = {
     'divine': [],
     'hieron': [],
     'longfielle': [],
+    'patreon': [],
     'extras': [],
     'others': []
 }
