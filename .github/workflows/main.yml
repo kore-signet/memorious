@@ -17,7 +17,7 @@ jobs:
       
       - name: download data
         run: |
-          curl -O data.zip https://memorious-records-2.cat-girl.gay/all-plaintext.zip
+          curl -o data.zip https://memorious-records-2.cat-girl.gay/all-plaintext.zip
           unzip data.zip -d data
           
       - name: install stork
