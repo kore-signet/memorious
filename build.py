@@ -36,7 +36,7 @@ seasons = json.load(open("data/seasons.json"))
 categories_ids = {
     'divine': ['counterweight','twilight-mirage','road-to-partizan', 'partizan','road-to-palisade', 'palisade'],
     'hieron': ['autumn-in-hieron', 'marielda', 'winter-in-hieron', 'spring-in-hieron'],
-    'longfielle': ['sangfielle'],
+    'other_seasons': ['sangfielle', 'perpetua'],
     'patreon': ['patreon-games', 'patreon-other'],
     'extras': ['extras', 'media-club-plus'],
     'others': []
@@ -45,7 +45,7 @@ categories_ids = {
 categories = {
     'divine': [],
     'hieron': [],
-    'longfielle': [],
+    'other_seasons': [],
     'patreon': [],
     'extras': [],
     'others': []
