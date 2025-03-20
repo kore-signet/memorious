@@ -15,14 +15,11 @@ jobs:
           persist-credentials: false
           fetch-depth: 0
       
-      - name: checkout repo content
-        uses: actions/checkout@v2
-        with:
-          repository: 'kore-signet/transcripts-at-the-table-mirror'
-          persist-credentials: false
-          ref: 'data'
-          path: 'data'
-
+      - name: download data
+        run: |
+          curl -O data.zip https://memorious-records-2.cat-girl.gay/all-plaintext.zip
+          unzip data.zip -d data
+          
       - name: install stork
         uses: baptiste0928/cargo-install@v2
         with:
