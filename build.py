@@ -38,7 +38,7 @@ categories_ids = {
     'hieron': ['autumn-in-hieron', 'marielda', 'winter-in-hieron', 'spring-in-hieron'],
     'other_seasons': ['sangfielle', 'perpetua'],
     'patreon': ['patreon-games', 'patreon-other'],
-    'extras': ['extras', 'media-club-plus'],
+    'extras': ['extras', 'media-club-plus', 'side-story'],
     'others': []
 }
 
